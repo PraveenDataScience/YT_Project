@@ -1,0 +1,12 @@
+===========================================================
+substring():
+------------
+Syntax : 
+public String substring(int begIndex, int endIndex)
+substring(2,4)
+Parameters : 
+	beginIndex :  the begin index, inclusive.
+	endIndex :  the end index, exclusive(i.e.  endIndex – 1).
+Return Value : 
+	The specified substring.
+=============================================================
